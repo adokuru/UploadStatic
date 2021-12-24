@@ -1,3 +1,5 @@
+npx tailwindcss -i ./css/style.css -o ./css/tailwind.css --watch --jit --purge="./\*.html"
+
 MIT License
 
 Copyright (c) 2021 David Adokuru
